@@ -212,7 +212,8 @@ input::-webkit-input-placeholder {
     background-size: contain;
  }
  #slides .slide_3 {
-    background: #007EA7;
+    background: url("./assets/slide3.png") no-repeat; 
+    background-size: contain;
  }
  #bullets {
     margin: 5px 0 0;
